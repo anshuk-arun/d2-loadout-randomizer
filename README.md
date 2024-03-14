@@ -1,18 +1,18 @@
 # d2-loadout-randomizer
 
-# Create an application like the website: 
-# Ultimate Bravery but for Destiny 2
-# aka, Destiny 2 Loadout Randomizer
+Create an application like the website: https://www.ultimate-bravery.net/
+Ultimate Bravery but for Destiny 2
+aka, Destiny 2 Loadout Randomizer
 
 # This application accesses the current Destiny 2 API, and pulls class, subclass, elements, weapons, armor, exotic information.
-# It will randomly choose different options and put them together as a loadout that the Guardian will have to equip in their chosen activity.
-# Some options are weighted, such as exotics weapons towards primary and secondary more than heavy
-# some options only have a chance of showing up, such as the chance of exotic armor
+It will randomly choose different options and put them together as a loadout that the Guardian will have to equip in their chosen activity.
+Some options are weighted, such as exotics weapons towards primary and secondary more than heavy
+some options only have a chance of showing up, such as the chance of exotic armor
 
-# This will not move the itemss automatically in your inventory, it will only give you the loadout information.
-# The application is intended for use with friends as lowstakes fun. Use this in competitve at your own risk. 
+This will not move the itemss automatically in your inventory, it will only give you the loadout information.
+The application is intended for use with friends as lowstakes fun. Use this in competitve at your own risk. 
 
-# Intended options of randomization:
+Intended options of randomization:
 /*
 * Class: Hunter, Warlock, Titan 
 * Subclass: Arc, Solar, Void, Stasis, Strand
