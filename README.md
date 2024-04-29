@@ -13,7 +13,7 @@ This will not move the itemss automatically in your inventory, it will only give
 The application is intended for use with friends as lowstakes fun. Use this in competitve at your own risk. 
 
 Intended options of randomization:
-/*
+
 * Class: Hunter, Warlock, Titan 
 * Subclass: Arc, Solar, Void, Stasis, Strand
 * SC_Super: Left, Middle, Right
@@ -43,35 +43,34 @@ Armor
 Ability to focus on?
 * grenade, melee, classability, aspects, fragments, etc?
 
-/* LoL Ultimate Bravery
-  and how it relates to D2 Ultimate Bravery
-* 
-* Maps: SummonersRift, ARAM, Arena
+LoL Ultimate Bravery and how it relates to D2 Ultimate Bravery
+
+Maps: SummonersRift, ARAM, Arena
 * is the gametype we choose.
 * Strikes, Crucible, Gambit
-* 
-* Lvl 10
+
+Lvl 10
 * i think this would be light level?
 * either way, we mostly ignore this one
-* 
-* Roles: Top, Mid, Jungle, Bot, Support
+
+Roles: Top, Mid, Jungle, Bot, Support
 * This basically chooses the pool of champions you can choose from, to an extent
 * but moreso, it helps define how you're going to play.
 * you can have a AP focused mid nami, or a tankier support nami
 * MAYBE this could be the Subclass element? because you can be a void titan, or a solar titan.
 * plus 5 on 5 matches well
-* 
-* Champions: there are tons of champions to choose from, and each will define the abilities available to 4
+ 
+Champions: there are tons of champions to choose from, and each will define the abilities available to 4
 * in this case, this might be a switchup from how its expected
 * there's only 3 classes. and each has soo many options underneath it.
 * maybe classes should be the roles replacement
 * and elements the champions replacement
 * but i think this makes more sense
-* 
-* You can filter out ones you do/don't want of champions.
+
+You can filter out ones you do/don't want of champions.
 * in this case, could be you only wanna play hunter, or okay with all of them
 * maybe you need to filter out strannd or stasis
-* 
+
 * Champion Caitlyn / Class Hunter
 * Role Bottom / Subclass Stasis
 * Main Tree, Secondary Tree / Super + Aspects for sure
@@ -86,11 +85,7 @@ Ability to focus on?
 * Max Out Ability / build your build around ONE playstyle of build
 * Starter Item they can sell for later? / Up to 1 change to anything given, except Subclass Element and Exotic Armor
 * Summoner Spells Smite and Ghost / can choose any mods to help with the build
-*/
 
-/*
 * Option to do it randomized with every item/gear
   option to do it with specifically your items/gear
       - requires bungie profile auth
-      
-*/
