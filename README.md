@@ -23,8 +23,8 @@ Intended options of randomization:
 * SC_Grenade: [amt] of subclass element
 * SC_Aspects: chooses 2 of [amt] of subclass element
 * SC_Fragments: based on aspects, gets fragments cost. picks amt of fragments prioritizing one high cost fragment
-* 
-* Weapons
+
+Weapons
 * Primary/Kinetic
 * Secondary/Energy
 * Heavy
@@ -33,18 +33,15 @@ Intended options of randomization:
 * - 10% to choose primary
 * - 10% to choose secondary
 * - 5% to choose heavy
-* 
-* Armor
+
+Armor
 * WILL select an exotic armor
 * 25% for each of head, gauntlets, chest, legs
 * maybe tags for if its more pvp centric/pve centric?
 * depending on the activity selected, then will choose 75% favor towards that activity tag
-* 
-* Ability to focus on?
+
+Ability to focus on?
 * grenade, melee, classability, aspects, fragments, etc?
-* 
-* 
-*/
 
 /* LoL Ultimate Bravery
   and how it relates to D2 Ultimate Bravery
