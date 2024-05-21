@@ -1,5 +1,7 @@
 # d2-loadout-randomizer
 
+(Updating for GithubDesktop testing)
+
 Create an application like the website: https://www.ultimate-bravery.net/
 Ultimate Bravery but for Destiny 2
 aka, Destiny 2 Loadout Randomizer
