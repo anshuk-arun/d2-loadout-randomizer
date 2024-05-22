@@ -27,10 +27,11 @@ public class TopLevelWindow {
         
 
         // Background Image that currently takes over the window.
-        // JLabel imageHolder = new JLabel();
-        // ImageIcon d2Icon = new ImageIcon("images/D2_Logo.png");
-        // imageHolder.setIcon(d2Icon);
-        // frame.getContentPane().add(imageHolder);
+        JLabel imageHolder = new JLabel();
+        ImageIcon d2Icon = new ImageIcon("images/D2_Logo.png");
+        imageHolder.setIcon(d2Icon);
+        //frame.getContentPane().add(imageHolder);
+        panel.add(imageHolder, BorderLayout.NORTH);
 
         // Display the Window
         frame.setLocationRelativeTo(null);
