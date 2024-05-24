@@ -91,3 +91,20 @@ You can filter out ones you do/don't want of champions.
 * Option to do it randomized with every item/gear
   option to do it with specifically your items/gear
       - requires bungie profile auth
+
+# Login Window
+- light blue background frame
+maybe a background/foreground image of destiny 2 space?
+
+- Login button has text "Login with" and D2 Logo icon following it.
+basically it's the (Login with Bungie credentials) button
+
+- The button will redirect to Bungie authorization website.
+User will login with their details- all through the Bungie login. Program will not have any of their details.?
+- User may log out at any time.
+
+Program will save the bungie information for 24 hours?
+after which it will request new login?
+User can manually relogin?
+
+After loggin in, closes window and opens new window for main program?
